@@ -113,8 +113,8 @@ a:hover {
 }
 
 .description {
-    padding-top: 75px;
-    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background-color: whitesmoke;
     margin-left: 200px;
     margin-right: 200px;
@@ -128,6 +128,4 @@ a:hover {
     line-height: 160%;
     margin-left: 50px;
     margin-right: 50px;
-    padding-top: 2px;
-    padding-bottom: 2px;
 }
