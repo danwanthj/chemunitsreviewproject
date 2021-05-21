@@ -70,7 +70,6 @@ ul {
     margin-left: 40px;
     padding: 20px;
     display: block;
-    flex-direction: column;
     align: center;
     text-align: center;
 }
